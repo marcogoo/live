@@ -480,7 +480,7 @@ CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/PLTV/1/224/3221230612/1.m3u
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/PLTV/1/224/3221230976/1.m3u8
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/PLTV/1/224/3221230976/1.m3u8
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/PLTV/1/224/3221230976/1.m3u8
-CCTV-5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221231011/1.m3u8
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231011/1.m3u8
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/PLTV/1/224/3221230605/1.m3u8
@@ -666,11 +666,6 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-21187
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8
-CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
-CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC高清电影,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC动作电影,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
